@@ -1,10 +1,15 @@
 
 body {
-color: white;
+color: black;
 font-family: arial, helvetica, sans-serif;
 background-image: linear-gradient(cyan, purple);
 }
-
+img.screencap {width:600px}
+img.screencap2 {width:500px}
+img.screencap3 {width:500px}
+img.screencap4 {width:500px}
+img.screencap5 {width:500px}
+img.screencap6 {width:500px}
 /* ebb: This is a comment in CSS: 
  * Notice that the properties I set on the <body> element get passed down to elements inside it. So all my text is the color and font that I set here. 
  * If I want to change the styling of internal elements, I can just enter their names and apply CSS properties to them, following CSS syntax. 
