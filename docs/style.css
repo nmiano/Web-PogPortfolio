@@ -4,13 +4,13 @@ color: black;
 font-family: arial, helvetica, sans-serif;
 background-image: linear-gradient(cyan, purple);
 }
-img.screencap {width:350px}
-img.screencap2 {width:200px}
-img.screencap3 {width:200px}
-img.screencap4 {width:200px}
-img.screencap5 {width:200px}
-img.screencap6 {width:200px}
-img.screencap7 {width:350px}
+img.screencap {width:550px}
+img.screencap2 {width:400px}
+img.screencap3 {width:400px}
+img.screencap4 {width:400px}
+img.screencap5 {width:400px}
+img.screencap6 {width:400px}
+img.screencap7 {width:550px}
 
 ol {list-style-type: lower-alpha;
 padding: 5em;
