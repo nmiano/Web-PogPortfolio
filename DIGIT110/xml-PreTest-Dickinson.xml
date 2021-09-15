@@ -6,7 +6,7 @@
                 <author>Emily Dickinson</author>
             </titleStmt>
             <publicationStmt>
-                <p>Fascicle 16: Dickinson's variants and published versions<p>
+                <p>Fascicle 16: Dickinson's variants and published versions</p> <!-- ndm: corrected forward slash in end atribute-->
             </publicationStmt>
             <sourceDesc>
                 <msDesc>
